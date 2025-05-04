@@ -11,7 +11,7 @@ export const todayDeal = [
         DealOfDay : "Deal of the Day",
         desc : "High Performance Handpicked Desktop Computers from HP, Lenovo and more"
     },
-    {
+    {                 
         img : "https://m.media-amazon.com/images/I/31aNgbvYJKL._AC_SY200_.jpg",
         discount : 66,
         DealOfDay : "Deal of the Day",
